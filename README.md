@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/736x/b7/3b/00/b73b00fad0a2f24f43739911da68741a.jpg" alt="android" width="100%" height="100%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hthien02&label=Profile%20views&color=0e75b6&style=flat" alt="hthien02" /> </p>
 
-- 🌱 I’m currently learning **FPT University**
+- 🌱 I’m currently learning **FPT University***
 
 - 📫 How to reach me **sw.thientvh1802@gmail.com**
 
